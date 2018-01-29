@@ -1,2 +1,4 @@
 This is a message
 change
+
+This is from local repo
